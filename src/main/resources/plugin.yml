@@ -1,0 +1,8 @@
+name: LiteBansMuteHook
+version: 1.0
+main: ru.mutehook.LiteBansMuteHook
+api-version: '1.21'
+author: YourName
+description: Заставляет муты LiteBans работать с любым плагином чата.
+depend: [LiteBans]
+softdepend: [SlayRW-Chat, SlayRW_Chat, slayrw_chat]
